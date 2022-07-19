@@ -1,0 +1,23 @@
+[
+  {
+    "id" : 6,
+    "title" : "스크류드라이버",
+    "content" : "보드카를 베이스로 오렌지 주스를 넣어 만든 칵테일.",
+    "price" : 14000,
+    "link" : "https://img.freepik.com/premium-photo/orange-mint-cocktail-glass_187166-43729.jpg?w=360"
+  },
+  {
+    "id" : 7,
+    "title" : "마가리타",
+    "content" : "테킬라를 베이스로 하여 만든 약간 새콤한 맛의 칵테일.",
+    "price" : 18000,
+    "link" : "https://img.freepik.com/free-photo/side-view-margarita-cocktail-with-slice-lime-glass_141793-3658.jpg?t=st=1658238124~exp=1658238724~hmac=ddbb7e9e91240a62c3e2d9ea64302d24d56ab7669e0ab27ce2dd431775ff311f&w=900"
+  },
+  {
+    "id" : 8,
+    "title" : "블러드메리",
+    "content" : "보드카와 토마토주스를 넣은 칵테일",
+    "price" : 21000,
+    "link" : "https://img.freepik.com/free-photo/glass-glass-tomato-juice-with-fresh-bright-tomatoes-green-parsley-dark-background-vegetable-drink_1150-45698.jpg?t=st=1658238193~exp=1658238793~hmac=38d7ca872ab581ca4bac6b7daaf8cac247778b7ae1ed3beea90d509e380c253d&w=900"
+  }
+]
