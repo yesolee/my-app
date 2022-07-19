@@ -1,19 +1,19 @@
 [
   {
     "id" : 3,
-    "title" : "Flowey",
+    "title" : "플라워",
     "content" : "only 5 inches",
     "price" : 120000
   },
   {
     "id" : 4,
-    "title" : "Baby shoes",
+    "title" : "베이비슈즈",
     "content" : "for less than 6",
     "price" : 120000
   },
   {
     "id" : 5,
-    "title" : "Red Herring",
+    "title" : "레드헤링",
     "content" : "Born in France",
     "price" : 120000
   }
